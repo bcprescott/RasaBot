@@ -13,7 +13,7 @@ intents:
   - client_inquire
 
 actions:
-  - action_hello_world
+  - action_client_summary
 
 responses:
   utter_greet:
