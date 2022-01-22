@@ -43,4 +43,4 @@ stories:
   - intent: help 
   - action: utter_help
   - intent: client_inquire
-  - action: action_hello_world 
+  - action: action_client_summary 
